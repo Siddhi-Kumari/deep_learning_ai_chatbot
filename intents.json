@@ -1,0 +1,96 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "examples": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Is anyone there?",
+        "Good day",
+        "What's up?",
+        "Greetings"
+      ],
+      "responses": [
+        "Hello! How can I assist you with information about Google?",
+        "Hi there! What would you like to know about Google?",
+        "Hey! Ask me anything about Google!"
+      ]
+    },
+    {
+      "tag": "about_google",
+      "examples": [
+        "What is Google?",
+        "Tell me about Google",
+        "What does Google do?",
+        "Describe Google"
+      ],
+      "responses": [
+        "Google is a multinational technology company specializing in Internet-related services and products. It includes online advertising, search engine technology, cloud computing, software, and hardware.",
+        "Google is best known for its search engine but also offers products like Gmail, YouTube, and Google Cloud."
+      ]
+    },
+    {
+      "tag": "services",
+      "examples": [
+        "What services does Google offer?",
+        "Tell me about Google's services",
+        "What products does Google provide?"
+      ],
+      "responses": [
+        "Google offers a wide range of services including Search, Gmail, Google Maps, YouTube, Google Drive, Google Cloud Platform, and Android.",
+        "Some popular Google services are Google Search, Gmail, YouTube, and Google Photos."
+      ]
+    },
+    {
+      "tag": "ceo",
+      "examples": [
+        "Who is the CEO of Google?",
+        "Who leads Google?",
+        "Google's CEO"
+      ],
+      "responses": [
+        "The current CEO of Google is Sundar Pichai.",
+        "Sundar Pichai is the Chief Executive Officer of Google and its parent company Alphabet Inc."
+      ]
+    },
+    {
+      "tag": "headquarters",
+      "examples": [
+        "Where is Google headquartered?",
+        "Location of Google's headquarters",
+        "Google main office"
+      ],
+      "responses": [
+        "Google's headquarters, also known as the Googleplex, is located in Mountain View, California, USA.",
+        "The Googleplex is the company's main headquarters in Mountain View, California."
+      ]
+    },
+    {
+      "tag": "founders",
+      "examples": [
+        "Who founded Google?",
+        "Google's founders",
+        "Who created Google?"
+      ],
+      "responses": [
+        "Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in 1998.",
+        "Larry Page and Sergey Brin are the co-founders of Google."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "examples": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "I am leaving"
+      ],
+      "responses": [
+        "Goodbye! Feel free to ask more about Google anytime!",
+        "See you later! Have a great day!",
+        "Bye! Let me know if you have more questions about Google."
+      ]
+    }
+  ]
+}
